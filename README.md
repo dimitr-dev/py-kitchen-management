@@ -1,5 +1,7 @@
 # Kitchenman: Restaurant & Kitchen Management System
 
+Online: https://kitchenman.onrender.com
+
 A robust, Django-based web application designed to streamline kitchen operations, 
 manage restaurant menus, and coordinate cooking staff. 
 This project serves as a comprehensive portfolio piece demonstrating 

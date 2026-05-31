@@ -11,6 +11,7 @@ exclude =
     manage.py,
     config/settings.py,
     kitchen/urls.py,
-    users/urls.py
+    users/urls.py,
+    config/*
 max-line-length = 79
 max-complexity = 10
